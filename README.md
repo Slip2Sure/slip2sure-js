@@ -12,7 +12,7 @@ pnpm add git+https://github.com/Slip2Sure/slip2sure-js
 
 ## Usage
 ```js
-import Slip2SureAPI from "../src"
+import Slip2SureAPI from "slip2sure-js"
 import fs from "fs"
 
 async function main(){
