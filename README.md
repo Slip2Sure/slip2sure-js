@@ -1,4 +1,7 @@
 # Slip2Sure JS
+SDK สำหรับเชื่อมต่อกับระบบ [Slip2Sure](https://slip2sure.com) Service. (NodeJS)
+
+หากต้องการอ่าน API Document สามารถอ่านได้ที่ [API Document](https://app.slip2sure.com/user/api/docs)
 
 ## Install
 ```sh
