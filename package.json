@@ -4,7 +4,8 @@
   "description": "SDK for integration NodeJS",
   "main": "dist/index.js",
   "scripts": {
-    "tsc": "tsc"
+    "tsc": "tsc",
+    "postinstall": "npm run tsc"
   },
   "keywords": [],
   "author": "Slip2Sure",
