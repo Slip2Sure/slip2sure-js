@@ -3,8 +3,8 @@ export interface ISlip2SureResponse {
         transaction_id: string
         paid_at: string
         amount: number
-        sender_mobile: any
-        reciever_mobile: string
+        account_from_mobile: string | null
+        account_to_mobile: string
     }
     credit: {
         before: number
