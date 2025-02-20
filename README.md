@@ -2,9 +2,9 @@
 
 ## Install
 ```sh
-npm i git+
-yarn add git+
-pnpm add git+
+npm i git+https://github.com/Slip2Sure/slip2sure-js
+yarn add git+https://github.com/Slip2Sure/slip2sure-js
+pnpm add git+https://github.com/Slip2Sure/slip2sure-js
 ```
 
 ## Usage
